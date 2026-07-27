@@ -1,21 +1,23 @@
-# OMEGA-PROXY v11.0 - Ultimate Cyber Weapon
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=🚀+OMEGA-PROXY+CREATOR;🛡️+Cyber+Security+Expert;💻+Ethical+Hacker;🔥+The+Ultimate+Cyber+Weapon" alt="Typing SVG" />
+</div>
 
-## 🔥 About
-OMEGA-PROXY is an advanced cybersecurity tool with 38+ offensive and defensive tools. Powered by AI with self-healing capabilities.
+---
 
-## 🚀 Features
-- 24 Offensive Tools
-- 14 Defensive Tools
-- AI Powered (Groq)
-- Self-Healing System
-- Stealth Mode
-- 38+ Integrated Tools
+# 👋 Hello, I'm Omar Tahax
 
-## 📦 Installation
+### 🌐 **Cybersecurity Developer | Ethical Hacker | AI Enthusiast**
 
-### Automatic Installation (Recommended)
-```bash
-git clone https://github.com/yourusername/Omega-Proxy.git
-cd Omega-Proxy
-chmod +x setup.sh
-./setup.sh
+---
+
+## 🔥 **My Tools:**
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| 🚀 **Omega-Proxy** | Ultimate Cyber Weapon (38 Tools) | ✅ Active |
+| 🛡️ **SCOC-Platform** | Security Operations Center | ⚙️ Developing |
+| 💻 **Cyber-Command-Hub** | AI-Powered Defense System | 🔄 Updating |
+
+---
+
+## ⚡ **Skills:**
